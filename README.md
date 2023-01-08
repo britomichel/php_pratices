@@ -3,9 +3,9 @@ My PHP and MySQL pratices
 <h1 align="center">Hi 👋, I'm Michel Brito</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Java, PHP, HTML, CSS, JavaScript, SQL studies**
+- 🔭 I’m currently working on ** JavaScript, PHP, SQL, HTML, CSS, JAVA studies **
 
-- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, SQL**
+- 🌱 I’m currently learning ** JavaScript, PHP, SQL, HTML, CSS, JAVA studies **
 
 - 👨‍💻 All of my projects are available at [https://github.com/britomichel/](https://github.com/britomichel/)
 
