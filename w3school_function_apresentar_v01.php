@@ -15,7 +15,12 @@
 
 <?php
 
-  function apresentar_familiar($nome, $sobrenome, $idade, $genero, $area) {
+  /* Função apresentar_funcionario(...)
+     Autor: Michel de Brito
+     Criada em: 08/01/2023
+     Objetivo: Contruir um frase de apresentação conforme o gênero da pessoa.
+  */
+  function apresentar_funcionario($nome, $sobrenome, $idade, $genero, $area) {
     
     $sufixo = '@';
     $ess_ = 'ess@';
@@ -35,10 +40,10 @@
       " e é noss$sufixo nov$sufixo funcionári$sufixo na área de <b>$area</b>.";
   }
 
-  echo "<p>" . apresentar_familiar('Mauro', 'Lima', 48, 'm', 'Vendas') . "</p>";
-  echo "<p>" . apresentar_familiar('Laura', 'Soares', 42, 'F', 'Logística') . "</p>";
-  echo "<p>" . apresentar_familiar('Luana', 'Lima Soares', 27, 'f', 'TI') . "</p>";
-  echo "<p>" . apresentar_familiar('Leni', 'Figueroa', 19, '?', 'Marketing') . "</p>";
+  echo "<p>" . apresentar_funcionario('Mauro', 'Lima', 48, 'm', 'Vendas') . "</p>";
+  echo "<p>" . apresentar_funcionario('Laura', 'Soares', 42, 'F', 'Logística') . "</p>";
+  echo "<p>" . apresentar_funcionario('Luana', 'Lima Soares', 27, 'f', 'TI') . "</p>";
+  echo "<p>" . apresentar_funcionario('Leni', 'Figueroa', 19, '?', 'Marketing') . "</p>";
 
 ?>
 
